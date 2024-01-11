@@ -106,3 +106,7 @@ Here are the summaries and key features for each lab:
 
 - **Summary** : Application of embedding techniques to build BiLSTM classifiers for sentiment analysis, with an added Attention layer.
 - **Key Concepts** : BiLSTM, Sentiment Analysis, Attention Mechanism
+
+**Contributors**
+
+- Roshan Khandelwal
